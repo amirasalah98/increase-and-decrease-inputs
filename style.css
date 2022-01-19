@@ -1,0 +1,11 @@
+*{
+    margin: 12px;
+}
+#removeRow{
+    width: 20px;
+    z-index: 1;
+    display: block;
+}
+button{
+    cursor: pointer;
+}
